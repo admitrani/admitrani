@@ -1,16 +1,31 @@
-## Hi there 👋
+## Adam Mitrani
 
-<!--
-**admitrani/admitrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer & Quant Researcher building production-grade financial data infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I'm building
+
+**[quant-research-system](https://github.com/admitrani/quant-research-system)** — 
+End-to-end quantitative research platform for systematic strategy 
+development.
+
+- Medallion architecture (Bronze/Silver/Gold) with DuckDB and Parquet
+- Robust ETL pipelines with incremental ingestion and data contracts
+- Purged walk-forward validation across 10 OOS windows (XGBoost, RF, Logistic)
+- Config-driven experimentation engine with CI/CD-enforced reproducibility
+- 73 tests covering critical paths
+
+v1 completed: BTC/USDT 1H, 2019–2026. v2 in active development.
+
+---
+
+### 🛠 Stack
+
+Python · DuckDB · Parquet · XGBoost · Scikit-learn · Backtrader · SQL · Git · GitHub Actions · YAML · SAP · Power BI
+
+---
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/adammitrani) · adammmitrani@gmail.com
