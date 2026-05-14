@@ -22,7 +22,7 @@ v1 completed: BTC/USDT 1H, 2019–2026. v2 in active development.
 
 ### 🛠 Stack
 
-Python · DuckDB · Parquet · XGBoost · Scikit-learn · Backtrader · SQL · Git · GitHub Actions · YAML · SAP · Power BI
+Python · DuckDB · Parquet · XGBoost · Scikit-learn · Backtrader · SQL · Git · GitHub Actions · YAML
 
 ---
 
