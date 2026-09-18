@@ -9,7 +9,7 @@ I build software, automations, and data/ML projects.
 Cloud data platform for ingesting, transforming, and serving market data on GCP.
 
 - Python ingestion into GCS and BigQuery
-- dbt models across staging, intermediate, and mart layers, with 85+ automated tests
+- dbt models across staging, intermediate, and mart layers, with automated data-quality tests
 - Airflow orchestration and Dockerized development
 - Terraform-managed infrastructure and GitHub Actions CI
 
