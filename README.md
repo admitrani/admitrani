@@ -1,31 +1,31 @@
-## Adam Mitrani
+# Adam Mitrani
 
-Data Engineer & Quant Researcher building production-grade financial data infrastructure.
+I build software, automations, and data/ML projects.
 
----
+## Featured projects
 
-### 🔬 What I'm building
+### [Market Data Platform](https://github.com/admitrani/market-data-platform)
 
-**[quant-research-system](https://github.com/admitrani/quant-research-system)** — 
-End-to-end quantitative research platform for systematic strategy 
-development.
+Cloud data platform for ingesting, transforming, and serving market data on GCP.
 
-- Medallion architecture (Bronze/Silver/Gold) with DuckDB and Parquet
-- Robust ETL pipelines with incremental ingestion and data contracts
-- Purged walk-forward validation across 10 OOS windows (XGBoost, RF, Logistic)
-- Config-driven experimentation engine with CI/CD-enforced reproducibility
-- 73 tests covering critical paths
+- Python ingestion into GCS and BigQuery
+- dbt models across staging, intermediate, and mart layers, with 85+ automated tests
+- Airflow orchestration and Dockerized development
+- Terraform-managed infrastructure and GitHub Actions CI
 
-v1 completed: BTC/USDT 1H, 2019–2026. v2 in active development.
+### [Quant Research System](https://github.com/admitrani/quant-research-system)
 
----
+Quantitative research system for developing and testing financial ML strategies.
 
-### 🛠 Stack
+- Bronze/Silver/Gold data pipeline with DuckDB and Parquet
+- Walk-forward validation, model comparison, and robustness testing
+- Realistic backtesting with Backtrader
+- Config-driven and reproducible research workflow
 
-Python · DuckDB · Parquet · XGBoost · Scikit-learn · Backtrader · SQL · Git · GitHub Actions · YAML
+## Stack
 
----
+Python · SQL · Git · Docker · GCP · BigQuery · dbt · Airflow · Terraform · GitHub Actions
 
-### 📫 Contact
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/adammitrani) · adammmitrani@gmail.com
